@@ -2,13 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5fcee60-1dd9-47f5-a5cd-fbcf83037182" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JeraldTest3/settings/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JeraldTest3/settings/local.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JeraldTest3/settings/local_bak.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JeraldTest3/settings/production.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Procfile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JeraldTest3/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/JeraldTest3/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accounts/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/auth/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/auth/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/registration/Login.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/registration/Login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JeraldTest3/settings.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,8 +38,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -48,27 +50,34 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2ElbpjM5RlzjP7DnEZ75PVYGrOr" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/ADMIN/Desktop/bagsic/JeraldTest3"
+    "last_opened_file_path": "C:/Users/ADMIN/Desktop/bagsic/JeraldTest3/JeraldTest3/settings"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ADMIN\Desktop\bagsic\JeraldTest3\JeraldTest3\settings" />
+      <recent name="E:\Programming\PycharmProject\JeraldTest3\static_cdn\static_root" />
+      <recent name="C:\Users\ACER\PycharmProjects\JeraldTest3\templates" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ADMIN\Desktop\bagsic\JeraldTest3\JeraldTest3\settings" />
       <recent name="E:\Programming\PycharmProject\JeraldTest3\search" />
       <recent name="E:\Programming\PycharmProject\JeraldTest3\templates" />
       <recent name="E:\Programming\PycharmProject\JeraldTest3\static_my_project" />
       <recent name="E:\Programming\PycharmProject\JeraldTest3\templates\base" />
-      <recent name="E:\Programming\PycharmProject\JeraldTest3\products" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Programming\PycharmProject\JeraldTest3\static_cdn\static_root" />
-      <recent name="C:\Users\ACER\PycharmProjects\JeraldTest3\templates" />
     </key>
   </component>
   <component name="RunManager">
@@ -159,7 +168,7 @@
       <workItem from="1668190998413" duration="43000" />
       <workItem from="1668191118272" duration="1222000" />
       <workItem from="1668205170578" duration="44000" />
-      <workItem from="1668221104610" duration="1358000" />
+      <workItem from="1668221104610" duration="2100000" />
     </task>
     <servers />
   </component>
@@ -176,6 +185,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
