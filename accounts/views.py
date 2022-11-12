@@ -92,7 +92,7 @@ def destroy(request, id):
     return redirect("/record")
 
 #All Source Code
-@login_required(login_url='login')
+
 def dashboard2(request):
     orders = Order.objects.all()
     customers = Customer.objects.all()
@@ -112,19 +112,19 @@ def dashboard2(request):
 
     return render(request, 'dashboard2.html', context)
 
-@login_required(login_url='login')
+
 def products2(request):
     products2 = ProductForCustomer.objects.all()
 
     return render(request, 'products2.html', {'products2' :products2})
 
-@login_required(login_url='login')
+
 def allcustomer(request):
     customer2 = Customer.objects.all()
 
     return render(request, 'allcustomer.html', {'customer2' :customer2})
 
-@login_required(login_url='login')
+
 def customer2(request, pk_test):
     customer = Customer.objects.get(id=pk_test)
 
@@ -156,7 +156,7 @@ def createCustomer(request):
         }
         return render(request, 'createcustomer.html', context)
 
-@login_required(login_url='login')
+
 def createOrder(request, pk):
         OrderFormSet = inlineformset_factory(Customer, Order, fields=('product', 'status'), extra=3 )
         customer = Customer.objects.get(id=pk)
@@ -173,7 +173,7 @@ def createOrder(request, pk):
         context = {'form':formset}
         return render(request, 'order_form.html', context)
 
-@login_required(login_url='login')
+
 def updateOrder(request, pk):
 
         order = Order.objects.get(id=pk)
@@ -188,7 +188,7 @@ def updateOrder(request, pk):
         context = {'form':form}
         return render(request, 'order_form.html', context)
 
-@login_required(login_url='login')
+
 def deleteOrder(request, pk):
         order = Order.objects.get(id=pk)
         if request.method == "POST":
@@ -198,7 +198,7 @@ def deleteOrder(request, pk):
         context = {'item':order}
         return render(request, 'delete.html', context)
 
-@login_required(login_url='login')
+
 def invoices(request):
     customer2 = Customer.objects.all()
 

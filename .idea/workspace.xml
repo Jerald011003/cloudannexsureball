@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b5fcee60-1dd9-47f5-a5cd-fbcf83037182" name="Default Changelist" comment="" />
+    <list default="true" id="b5fcee60-1dd9-47f5-a5cd-fbcf83037182" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JeraldTest3/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/JeraldTest3/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/accounts/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/auth/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/auth/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/registration/Login.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/registration/Login.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,20 +41,23 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2ElbpjM5RlzjP7DnEZ75PVYGrOr" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/ADMIN/Desktop/bagsic/JeraldTest3"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Programming\PycharmProject\JeraldTest3\search" />
@@ -85,6 +96,7 @@
       <method v="2" />
     </configuration>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -147,55 +159,23 @@
       <workItem from="1668190998413" duration="43000" />
       <workItem from="1668191118272" duration="1222000" />
       <workItem from="1668205170578" duration="44000" />
+      <workItem from="1668221104610" duration="1358000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="206" y="127" key="#JeraldTest3" timestamp="1667827687588">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="206" y="127" key="#JeraldTest3/0.0.1920.1040@0.0.1920.1040" timestamp="1667827687588" />
-    <state x="784" y="174" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1668094654666">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="784" y="174" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1668094654666" />
-    <state x="413" y="114" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1663482232805">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="413" y="114" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1663482232805" />
-    <state x="694" y="139" key="FileChooserDialogImpl" timestamp="1666526044760">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="694" y="139" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1666526044760" />
-    <state width="196" height="457" key="HiddenNamespacesPopup" timestamp="1665676667257">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="196" height="457" key="HiddenNamespacesPopup/0.0.1366.728@0.0.1366.728" timestamp="1665676667257" />
-    <state x="416" y="27" key="SettingsEditor" timestamp="1668021156977">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="296" y="19" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1663909131926" />
-    <state x="416" y="27" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1668021156977" />
-    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1668135289549">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1668135289549" />
-    <state x="550" y="273" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1668005388889" />
-    <state x="1035" y="57" width="681" height="750" key="dock-window-1" timestamp="1668024036497">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1035" y="57" width="681" height="750" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1668024036497" />
-    <state x="390" y="0" width="586" height="728" key="find.popup" timestamp="1663188638004">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="390" y="0" width="586" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1663188638004" />
-    <state x="12" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1665674896367">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="12" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1665674896367" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
